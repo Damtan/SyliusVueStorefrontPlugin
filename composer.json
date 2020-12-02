@@ -2,7 +2,7 @@
     "name": "bitbag/vuestorefront-plugin",
     "type": "sylius-plugin",
     "keywords": ["sylius", "sylius-plugin", "sylius vuestorefront"],
-    "description": "BitBag VueStorefront bridge for Sylius.",
+    "description": "fixed BitBag VueStorefront bridge for Sylius.",
     "license": "MIT",
     "require": {
         "php": "^7.3",
